@@ -29,3 +29,6 @@
 12 и 13. Sitting,Standing-...no comments
 
 14.ThumbsUp-лайк
+
+
+P.S В мобильной версии лишь часть всех анимаций
